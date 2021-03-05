@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000215
+initial_creation_type: ebook
+source_metadata:
   title: བློ་གྲོས་མཐའ་ཡས་པའི་མཛོད།
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-SS-17
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-SS-17
 web_metadata:
   title:
     en: Selected Commentaries to the Bardo Teaching
